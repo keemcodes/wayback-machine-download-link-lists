@@ -2,10 +2,10 @@
 A python script to download pages from wayback machine using a file list of links
 
 # require
-download waybackpack and set up the cli so the "waybackpack" command works
+install waybackpack and make sure the "waybackpack" command works
 Download: https://github.com/jsvine/waybackpack
 # how to use
-change remix2.txt to the file of your choose
+change remix3.txt to the file of your choose
 each link must occupy a single line.
 ex.
 ```

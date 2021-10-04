@@ -4,7 +4,7 @@ import time
 home_dir = os.system("cd ~")
 print("`cd ~` ran with exit code %d" % home_dir)
 
-file = open('remix2.txt', 'r')
+file = open('remix3.txt', 'r')
 lines = file.readlines()
 
 for index, line in enumerate(lines):
